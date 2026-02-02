@@ -255,6 +255,13 @@ const Index = () => {
                 compilare moduli, caricare documenti e aspettare email di conferma? Ecco, i casino senza registrazione
                 eliminano tutto questo.
               </p>
+              <p>
+Se vuoi scoprire subito le piattaforme più affidabili, dai un’occhiata al nostro 
+<a href="https://casinosenzainviodocumenti.com/" target="_blank" rel="noopener">
+elenco completo di casino online senza documenti
+</a>, dove puoi giocare e prelevare vincite senza inviare documenti, con tempi di registrazione e prelievo rapidissimi.
+</p>
+
 
               <p className="text-lg text-muted-foreground mb-6">
                 Funzionano attraverso sistemi di pagamento intelligenti come Trustly Pay N Play o ID verification
